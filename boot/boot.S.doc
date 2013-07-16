@@ -1,0 +1,4 @@
+this docment discribe how to write the boot.S
+
+boot.S is the first code loaded when the computer is starting.
+boot.S is not a part of operation system. it is just a bootloader in MBR
